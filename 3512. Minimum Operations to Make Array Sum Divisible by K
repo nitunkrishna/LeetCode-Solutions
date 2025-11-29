@@ -1,0 +1,11 @@
+class Solution
+{
+public:
+    int minOperations(vector<int>& nums, int k)
+    {
+        int n=nums.size();
+        long long sum = accumulate(nums.begin(), nums.end(), 0LL);
+        int op=sum%k;
+        return op;
+    }
+};
