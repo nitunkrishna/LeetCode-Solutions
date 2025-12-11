@@ -1,0 +1,20 @@
+class Solution
+{
+public:
+    int majorityElement(vector<int>& nums)
+    {
+        map<int, int>freq;
+        for(int i=0; i<nums.size(); i++)
+            freq[nums[i]]++;
+        int m1=0, m2=-1;
+        for(map<int,int> :: iterator it=freq.begin(); it!=freq.end(); it++)
+        {
+            if(it->second>m1)
+            {
+                m1=it->second;
+                m2=it->first;
+            }
+        }
+        return m2;
+    }
+};
