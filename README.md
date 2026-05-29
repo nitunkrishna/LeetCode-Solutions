@@ -12,7 +12,7 @@ All the solutions of LeetCode problems done by me.
 <br>[58. Length of Last Word](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/58.%20Length%20of%20Last%20Word)
 <br>[66. Plus One](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/66.%20Plus%20One)
 <br>[69. Sqrt(x)](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/69.%20Sqrt(x))
-<br>[136. Single Number]()
+<br>[136. Single Number](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/136.%20Single%20Number)
 <br>[162. Find Peak Element](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/162.%20Find%20Peak%20Element)
 <br>[169. Majority Element](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/169.%20Majority%20Element)
 <br>[171. Excel Sheet Column Number](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/171.%20Excel%20Sheet%20Column%20Number)
