@@ -7,6 +7,7 @@ All the solutions of LeetCode problems done by me.
 <br>[9. Palindrome Number](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9.%20Palindrome%20Number)
 <br>[26. Remove Duplicates from Sorted Array](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
 <br>[27. Remove Element](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/27.%20Remove%20Element)
+<br>[28. Find the Index of the First Occurrence in a String](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
 <br>[33. Search in Rotated Sorted Array](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/33.%20Search%20in%20Rotated%20Sorted%20Array)
 <br>[35. Search Insert Position](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/35.%20Search%20Insert%20Position)
 <br>[58. Length of Last Word](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/58.%20Length%20of%20Last%20Word)
