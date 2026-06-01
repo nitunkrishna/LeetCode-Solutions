@@ -27,7 +27,7 @@ All the solutions of LeetCode problems done by me.
 <br>[367. Valid Perfect Square](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/367.%20Valid%20Perfect%20Square)
 <br>[414. Third Maximum Number](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/414.%20Third%20Maximum%20Number)
 <br>[796. Rotate String](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/796.%20Rotate%20String)
-<br>[]()
+<br>[2144. Minimum Cost of Buying Candies With Discount](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount)
 <br>[]()
 <br>[]()
 <br>[]()
