@@ -29,7 +29,7 @@ All the solutions of LeetCode problems done by me.
 <br>[520. Detect Capital](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/520.%20Detect%20Capital)
 <br>[796. Rotate String](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/796.%20Rotate%20String)
 <br>[2144. Minimum Cost of Buying Candies With Discount](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount)
-<br>[]()
+<br>[3838. Weighted Word Mapping](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/3838.%20Weighted%20Word%20Mapping)
 <br>[]()
 <br>[]()
 <br>[]()
