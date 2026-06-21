@@ -42,6 +42,6 @@ All the solutions of LeetCode problems done by me.
 
 | Problem ID | Problem Name | Problem Link | Solution Link |
 |------------|--------------|--------------|---------------|
-| 1 | Two Sum | [Problem](https://leetcode.com/problems/two-sum/description/) | [Solution]([https://github.com/user/repo/blob/main/1000.cpp](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1.%20Two%20Sum) |
+| 1 | Two Sum | [Problem](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1.%20Two%20Sum) |
 | 1001 | Reverse Number | [Problem](https://example.com/problem) | [Solution](https://github.com/user/repo/blob/main/1001.cpp) |
 | 1002 | Sum of Digits | [Problem](https://example.com/problem) | [Solution](https://github.com/user/repo/blob/main/1002.cpp) |
