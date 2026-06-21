@@ -29,6 +29,7 @@ All the solutions of LeetCode problems done by me.
 <br>[520. Detect Capital](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/520.%20Detect%20Capital)
 <br>[796. Rotate String](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/796.%20Rotate%20String)
 <br>[1344. Angle Between Hands of a Clock](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1344.%20Angle%20Between%20Hands%20of%20a%20Clock)
+<br>[1833. Maximum Ice Cream Bars](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1833.%20Maximum%20Ice%20Cream%20Bars)
 <br>[2144. Minimum Cost of Buying Candies With Discount](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount)
 <br>[3838. Weighted Word Mapping](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/3838.%20Weighted%20Word%20Mapping)
 <br>[]()
