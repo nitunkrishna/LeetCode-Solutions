@@ -2,7 +2,6 @@
 All the solutions of LeetCode problems done by me.
 <br><br>
 <b>PROBLEMS:<b>
-<br>[171. Excel Sheet Column Number](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/171.%20Excel%20Sheet%20Column%20Number)
 <br>[217. Contains Duplicate](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/217.%20Contains%20Duplicate)
 <br>[242. Valid Anagram](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/242.%20Valid%20Anagram)
 <br>[258. Add Digits](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/258.%20Add%20Digits)
@@ -37,7 +36,7 @@ All the solutions of LeetCode problems done by me.
 | 162 | Find Peak Element | [Problem](https://leetcode.com/problems/find-peak-element/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/162.%20Find%20Peak%20Element) |
 | 168 | Excel Sheet Column Title | [Problem](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/168.%20Excel%20Sheet%20Column%20Title) |
 | 169 | Majority Element | [Problem](https://leetcode.com/problems/majority-element/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/169.%20Majority%20Element) |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
+| 171 | Excel Sheet Column Number | [Problem](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/171.%20Excel%20Sheet%20Column%20Number) |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
