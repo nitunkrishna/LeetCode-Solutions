@@ -2,12 +2,6 @@
 All the solutions of LeetCode problems done by me.
 <br><br>
 <b>PROBLEMS:<b>
-<br>[66. Plus One](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/66.%20Plus%20One)
-<br>[69. Sqrt(x)](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/69.%20Sqrt(x))
-<br>[88. Merge Sorted Array](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/88.%20Merge%20Sorted%20Array)
-<br>[136. Single Number](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/136.%20Single%20Number)
-<br>[162. Find Peak Element](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/162.%20Find%20Peak%20Element)
-<br>[169. Majority Element](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/169.%20Majority%20Element)
 <br>[171. Excel Sheet Column Number](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/171.%20Excel%20Sheet%20Column%20Number)
 <br>[217. Contains Duplicate](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/217.%20Contains%20Duplicate)
 <br>[242. Valid Anagram](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/242.%20Valid%20Anagram)
@@ -24,12 +18,6 @@ All the solutions of LeetCode problems done by me.
 <br>[2144. Minimum Cost of Buying Candies With Discount](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount)
 <br>[3838. Weighted Word Mapping](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/3838.%20Weighted%20Word%20Mapping)
 <br>[1967. Number of Strings That Appear as Substrings in Word](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word)
-<br>[]()
-<br>[]()
-<br>[]()
-<br>[]()
-<br>[]()
-<br>[]()
 
 | Problem ID | Problem Name | Problem Link | Solution Link |
 |------------|--------------|--------------|---------------|
@@ -42,13 +30,13 @@ All the solutions of LeetCode problems done by me.
 | 33 | Search in Rotated Sorted Array | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/33.%20Search%20in%20Rotated%20Sorted%20Array) |
 | 35 | Search Insert Position | [Problem](https://leetcode.com/problems/search-insert-position/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/35.%20Search%20Insert%20Position) |
 | 58 | Length of Last Word | [Problem](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/58.%20Length%20of%20Last%20Word) |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
+| 66 | Plus One | [Problem](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/66.%20Plus%20One) |
+| 69 | Sqrt(x) | [Problem](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/69.%20Sqrt(x)) |
+| 88 | SMerge Sorted Array | [Problem](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/88.%20Merge%20Sorted%20Array) |
+| 136 | Single Number | [Problem](https://leetcode.com/problems/single-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/136.%20Single%20Number) |
+| 162 | Find Peak Element | [Problem](https://leetcode.com/problems/find-peak-element/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/162.%20Find%20Peak%20Element) |
+| 168 | Excel Sheet Column Title | [Problem](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/168.%20Excel%20Sheet%20Column%20Title) |
+| 169 | Majority Element | [Problem](https://leetcode.com/problems/majority-element/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/169.%20Majority%20Element) |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
