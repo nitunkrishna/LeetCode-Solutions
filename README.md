@@ -32,7 +32,7 @@ All the solutions of LeetCode problems done by me.
 | 58 | Length of Last Word | [Problem](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/58.%20Length%20of%20Last%20Word) |
 | 66 | Plus One | [Problem](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/66.%20Plus%20One) |
 | 69 | Sqrt(x) | [Problem](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/69.%20Sqrt(x)) |
-| 88 | SMerge Sorted Array | [Problem](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/88.%20Merge%20Sorted%20Array) |
+| 88 | Merge Sorted Array | [Problem](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/88.%20Merge%20Sorted%20Array) |
 | 136 | Single Number | [Problem](https://leetcode.com/problems/single-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/136.%20Single%20Number) |
 | 162 | Find Peak Element | [Problem](https://leetcode.com/problems/find-peak-element/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/162.%20Find%20Peak%20Element) |
 | 168 | Excel Sheet Column Title | [Problem](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/168.%20Excel%20Sheet%20Column%20Title) |
