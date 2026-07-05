@@ -37,8 +37,8 @@ All the solutions of LeetCode problems done by me.
 | 168 | Excel Sheet Column Title | [Problem](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/168.%20Excel%20Sheet%20Column%20Title) |
 | 169 | Majority Element | [Problem](https://leetcode.com/problems/majority-element/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/169.%20Majority%20Element) |
 | 171 | Excel Sheet Column Number | [Problem](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/171.%20Excel%20Sheet%20Column%20Number) |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
+| 217 | Contains Duplicate | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/217.%20Contains%20Duplicate) |
+| 242 | Valid Anagram | [Problem](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/242.%20Valid%20Anagram) |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
