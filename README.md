@@ -2,8 +2,6 @@
 All the solutions of LeetCode problems done by me.
 <br><br>
 <b>PROBLEMS:<b>
-<br>[217. Contains Duplicate](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/217.%20Contains%20Duplicate)
-<br>[242. Valid Anagram](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/242.%20Valid%20Anagram)
 <br>[258. Add Digits](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/258.%20Add%20Digits)
 <br>[283. Move Zeroes](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/283.%20Move%20Zeroes)
 <br>[349. Intersection of Two Arrays](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/349.%20Intersection%20of%20Two%20Arrays)
