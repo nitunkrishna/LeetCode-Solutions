@@ -332,7 +332,7 @@ All the solutions of LeetCode problems done by me.
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
+| 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | [Problem](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/?envType=daily-question&envId=2026-07-07) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
