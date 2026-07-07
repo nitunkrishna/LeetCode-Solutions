@@ -1,0 +1,24 @@
+class Solution {
+public:
+    long long sumAndMultiply(int n) {
+        long long in=0, sum=0;
+        while(n>0)
+        {
+            int dig=n%10;
+            if(dig!=0)
+            {
+                in=(in*10)+dig;
+                sum+=dig;
+            }
+            n=n/10;
+        }
+        int x=0;
+        while(in>0)
+        {
+            int dig=in%10;
+            x=(x*10)+dig;
+            in=in/10;
+        }
+        return x*sum;
+    }
+};
