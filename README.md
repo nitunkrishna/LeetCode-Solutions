@@ -214,7 +214,7 @@ All the solutions of LeetCode problems done by me.
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
+| 1979 | Find Greatest Common Divisor of Array | [Problem](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array) |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
