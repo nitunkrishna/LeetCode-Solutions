@@ -298,7 +298,7 @@ All the solutions of LeetCode problems done by me.
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
+| 3536 | Maximum Product of Two Digits | [Problem](https://leetcode.com/problems/maximum-product-of-two-digits/description/?envType=daily-question&envId=2026-07-25) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/3536.%20Maximum%20Product%20of%20Two%20Digits) |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
