@@ -178,7 +178,7 @@ All the solutions of LeetCode problems done by me.
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
+| 1464 | Maximum Product of Two Elements in an Array | [Problem](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=daily-question&envId=2026-07-27) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
