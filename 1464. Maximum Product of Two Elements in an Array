@@ -1,0 +1,10 @@
+class Solution {
+public:
+    int maxProduct(vector<int>& nums) {
+        auto it=max_element(nums.begin(), nums.end());
+        int m1=*it;
+        nums.erase(it);
+        int m2=*max_element(nums.begin(), nums.end());
+        return (m1-1)*(m2-1);
+    }
+};
