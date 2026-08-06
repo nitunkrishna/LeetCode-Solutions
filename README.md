@@ -3370,7 +3370,7 @@ All the solutions of LeetCode problems done by me.
 | 3342 | - | [Problem] | [Solution] |
 | 3343 | - | [Problem] | [Solution] |
 | 3344 | - | [Problem] | [Solution] |
-| 3345 | - | [Problem] | [Solution] |
+| 3345 | Smallest Divisible Digit Product I | [Problem](https://leetcode.com/problems/smallest-divisible-digit-product-i/description/?envType=daily-question&envId=2026-08-06) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/3345) |
 | 3346 | - | [Problem] | [Solution] |
 | 3347 | - | [Problem] | [Solution] |
 | 3348 | - | [Problem] | [Solution] |
