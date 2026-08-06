@@ -18,7 +18,7 @@ All the solutions of LeetCode problems done by me.
 
 | Problem ID | Problem Name | Problem Link | Solution Link |
 |------------|--------------|--------------|---------------|
-| 1 | Two Sum | [Problem](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1.%20Two%20Sum) |
+| 1 | Two Sum | [Problem](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1) |
 | 2 | Sum of Digits | [Problem] | [Solution] |
 | 3 | Sum of Digits | [Problem] | [Solution] |
 | 4 | Sum of Digits | [Problem] | [Solution] |
