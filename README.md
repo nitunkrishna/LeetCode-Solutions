@@ -84,9 +84,48 @@ All the solutions of LeetCode problems done by me.
 | 56 | Sum of Digits | [Problem] | [Solution] |
 | 57 | Sum of Digits | [Problem] | [Solution] |
 | 58 | Length of Last Word | [Problem](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/58.%20Length%20of%20Last%20Word) |
+| 59 | Sum of Digits | [Problem] | [Solution] |
+| 60 | Sum of Digits | [Problem] | [Solution] |
+| 61 | Sum of Digits | [Problem] | [Solution] |
+| 62 | Sum of Digits | [Problem] | [Solution] |
+| 63 | Sum of Digits | [Problem] | [Solution] |
+| 64 | Sum of Digits | [Problem] | [Solution] |
+| 65 | Sum of Digits | [Problem] | [Solution] |
 | 66 | Plus One | [Problem](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/66.%20Plus%20One) |
+| 67 | Sum of Digits | [Problem] | [Solution] |
+| 68 | Sum of Digits | [Problem] | [Solution] |
 | 69 | Sqrt(x) | [Problem](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/69.%20Sqrt(x)) |
+| 70 | Sum of Digits | [Problem] | [Solution] |
+| 71 | Sum of Digits | [Problem] | [Solution] |
+| 72 | Sum of Digits | [Problem] | [Solution] |
+| 73 | Sum of Digits | [Problem] | [Solution] |
+| 74 | Sum of Digits | [Problem] | [Solution] |
+| 75 | Sum of Digits | [Problem] | [Solution] |
+| 76 | Sum of Digits | [Problem] | [Solution] |
+| 77 | Sum of Digits | [Problem] | [Solution] |
+| 78 | Sum of Digits | [Problem] | [Solution] |
+| 79 | Sum of Digits | [Problem] | [Solution] |
+| 80 | Sum of Digits | [Problem] | [Solution] |
+| 81 | Sum of Digits | [Problem] | [Solution] |
+| 82 | Sum of Digits | [Problem] | [Solution] |
+| 83 | Sum of Digits | [Problem] | [Solution] |
+| 84 | Sum of Digits | [Problem] | [Solution] |
+| 85 | Sum of Digits | [Problem] | [Solution] |
+| 86 | Sum of Digits | [Problem] | [Solution] |
+| 87 | Sum of Digits | [Problem] | [Solution] |
 | 88 | Merge Sorted Array | [Problem](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/88.%20Merge%20Sorted%20Array) |
+| 89 | Sum of Digits | [Problem] | [Solution] |
+| 90 | Sum of Digits | [Problem] | [Solution] |
+| 91 | Sum of Digits | [Problem] | [Solution] |
+| 92 | Sum of Digits | [Problem] | [Solution] |
+| 93 | Sum of Digits | [Problem] | [Solution] |
+| 94 | Sum of Digits | [Problem] | [Solution] |
+| 95 | Sum of Digits | [Problem] | [Solution] |
+| 96 | Sum of Digits | [Problem] | [Solution] |
+| 97 | Sum of Digits | [Problem] | [Solution] |
+| 98 | Sum of Digits | [Problem] | [Solution] |
+| 99 | Sum of Digits | [Problem] | [Solution] |
+| 100 | Sum of Digits | [Problem] | [Solution] |
 | 136 | Single Number | [Problem](https://leetcode.com/problems/single-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/136.%20Single%20Number) |
 | 162 | Find Peak Element | [Problem](https://leetcode.com/problems/find-peak-element/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/162.%20Find%20Peak%20Element) |
 | 168 | Excel Sheet Column Title | [Problem](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/168.%20Excel%20Sheet%20Column%20Title) |
@@ -158,7 +197,7 @@ All the solutions of LeetCode problems done by me.
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
-| 1000 | Sum of Digits | [Problem]() | [Solution]() |
+| 1000 | Sum of Digits | [Problem] | [Solution] |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
 | 1000 | Sum of Digits | [Problem]() | [Solution]() |
