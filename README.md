@@ -94,7 +94,7 @@ All the solutions of LeetCode problems done by me.
 | 66 | Plus One | [Problem](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/66.%20Plus%20One) |
 | 67 | Sum of Digits | [Problem] | [Solution] |
 | 68 | Sum of Digits | [Problem] | [Solution] |
-| 69 | Sqrt(x) | [Problem](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/69.%20Sqrt(x)) |
+| 69 | Sqrt(x) | [Problem](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/69) |
 | 70 | Sum of Digits | [Problem] | [Solution] |
 | 71 | Sum of Digits | [Problem] | [Solution] |
 | 72 | Sum of Digits | [Problem] | [Solution] |
