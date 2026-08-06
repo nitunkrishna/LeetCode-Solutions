@@ -19,13 +19,70 @@ All the solutions of LeetCode problems done by me.
 | Problem ID | Problem Name | Problem Link | Solution Link |
 |------------|--------------|--------------|---------------|
 | 1 | Two Sum | [Problem](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1.%20Two%20Sum) |
+| 2 | Sum of Digits | [Problem]() | [Solution]() |
+| 3 | Sum of Digits | [Problem]() | [Solution]() |
+| 4 | Sum of Digits | [Problem]() | [Solution]() |
+| 5 | Sum of Digits | [Problem]() | [Solution]() |
+| 6 | Sum of Digits | [Problem]() | [Solution]() |
 | 7 | Reverse Integer | [Problem](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9.%20Palindrome%20Number) |
+| 8 | Sum of Digits | [Problem]() | [Solution]() |
 | 9 | Palindrome Number | [Problem](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9.%20Palindrome%20Number) |
+| 10 | Sum of Digits | [Problem]() | [Solution]() |
+| 11 | Sum of Digits | [Problem]() | [Solution]() |
+| 12 | Sum of Digits | [Problem]() | [Solution]() |
+| 13 | Sum of Digits | [Problem]() | [Solution]() |
+| 14 | Sum of Digits | [Problem]() | [Solution]() |
+| 15 | Sum of Digits | [Problem]() | [Solution]() |
+| 16 | Sum of Digits | [Problem]() | [Solution]() |
+| 17 | Sum of Digits | [Problem]() | [Solution]() |
+| 18 | Sum of Digits | [Problem]() | [Solution]() |
+| 19 | Sum of Digits | [Problem]() | [Solution]() |
+| 20 | Sum of Digits | [Problem]() | [Solution]() |
+| 21 | Sum of Digits | [Problem]() | [Solution]() |
+| 22 | Sum of Digits | [Problem]() | [Solution]() |
+| 23 | Sum of Digits | [Problem]() | [Solution]() |
+| 24 | Sum of Digits | [Problem]() | [Solution]() |
+| 25 | Sum of Digits | [Problem]() | [Solution]() |
 | 26 | Remove Duplicates from Sorted Array | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array) |
 | 27 | Remove Elements | [Problem](https://leetcode.com/problems/remove-element/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/27.%20Remove%20Element) |
 | 28 | Find the Index of the First Occurrence in a String | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) |
+| 21 | Sum of Digits | [Problem]() | [Solution]() |
+| 22 | Sum of Digits | [Problem]() | [Solution]() |
+| 23 | Sum of Digits | [Problem]() | [Solution]() |
+| 24 | Sum of Digits | [Problem]() | [Solution]() |
+| 25 | Sum of Digits | [Problem]() | [Solution]() |
+| 26 | Sum of Digits | [Problem]() | [Solution]() |
+| 27 | Sum of Digits | [Problem]() | [Solution]() |
+| 28 | Sum of Digits | [Problem]() | [Solution]() |
+| 29 | Sum of Digits | [Problem]() | [Solution]() |
+| 30 | Sum of Digits | [Problem]() | [Solution]() |
+| 31 | Sum of Digits | [Problem]() | [Solution]() |
+| 32 | Sum of Digits | [Problem]() | [Solution]() |
 | 33 | Search in Rotated Sorted Array | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/33.%20Search%20in%20Rotated%20Sorted%20Array) |
+| 34 | Sum of Digits | [Problem]() | [Solution]() |
 | 35 | Search Insert Position | [Problem](https://leetcode.com/problems/search-insert-position/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/35.%20Search%20Insert%20Position) |
+| 36 | Sum of Digits | [Problem]() | [Solution]() |
+| 37 | Sum of Digits | [Problem]() | [Solution]() |
+| 38 | Sum of Digits | [Problem]() | [Solution]() |
+| 39 | Sum of Digits | [Problem]() | [Solution]() |
+| 40 | Sum of Digits | [Problem]() | [Solution]() |
+| 41 | Sum of Digits | [Problem]() | [Solution]() |
+| 42 | Sum of Digits | [Problem]() | [Solution]() |
+| 43 | Sum of Digits | [Problem]() | [Solution]() |
+| 44 | Sum of Digits | [Problem]() | [Solution]() |
+| 45 | Sum of Digits | [Problem]() | [Solution]() |
+| 46 | Sum of Digits | [Problem]() | [Solution]() |
+| 47 | Sum of Digits | [Problem]() | [Solution]() |
+| 48 | Sum of Digits | [Problem]() | [Solution]() |
+| 49 | Sum of Digits | [Problem]() | [Solution]() |
+| 50 | Sum of Digits | [Problem]() | [Solution]() |
+| 51 | Sum of Digits | [Problem]() | [Solution]() |
+| 52 | Sum of Digits | [Problem]() | [Solution]() |
+| 53 | Sum of Digits | [Problem]() | [Solution]() |
+| 54 | Sum of Digits | [Problem]() | [Solution]() |
+| 55 | Sum of Digits | [Problem]() | [Solution]() |
+| 56 | Sum of Digits | [Problem]() | [Solution]() |
+| 57 | Sum of Digits | [Problem]() | [Solution]() |
 | 58 | Length of Last Word | [Problem](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/58.%20Length%20of%20Last%20Word) |
 | 66 | Plus One | [Problem](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/66.%20Plus%20One) |
 | 69 | Sqrt(x) | [Problem](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/69.%20Sqrt(x)) |
