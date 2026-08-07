@@ -7,12 +7,12 @@ All the solutions of LeetCode problems done by me.
 |------------|--------------|--------------|---------------|
 | 1 | Two Sum | [Problem](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/1) |
 | 2 | Sum of Digits | [Problem] | [Solution] |
-| 3 | Sum of Digits | [Problem] | [Solution] |
-| 4 | Sum of Digits | [Problem] | [Solution] |
-| 5 | Sum of Digits | [Problem] | [Solution] |
-| 6 | Sum of Digits | [Problem] | [Solution] |
-| 7 | Reverse Integer | [Problem](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9.%20Palindrome%20Number) |
-| 8 | Sum of Digits | [Problem] | [Solution] |
+| 3 | Longest Substring Without Repeating Characters | [Problem] | [Solution] |
+| 4 | - | [Problem] | [Solution] |
+| 5 | - | [Problem] | [Solution] |
+| 6 | - | [Problem] | [Solution] |
+| 7 | - | [Problem](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9.%20Palindrome%20Number) |
+| 8 | - | [Problem] | [Solution] |
 | 9 | Palindrome Number | [Problem](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9.%20Palindrome%20Number) |
 | 10 | Sum of Digits | [Problem] | [Solution] |
 | 11 | Sum of Digits | [Problem] | [Solution] |
@@ -104,15 +104,15 @@ All the solutions of LeetCode problems done by me.
 | 89 | Sum of Digits | [Problem] | [Solution] |
 | 90 | Sum of Digits | [Problem] | [Solution] |
 | 91 | Sum of Digits | [Problem] | [Solution] |
-| 92 | Sum of Digits | [Problem] | [Solution] |
-| 93 | Sum of Digits | [Problem] | [Solution] |
-| 94 | Sum of Digits | [Problem] | [Solution] |
-| 95 | Sum of Digits | [Problem] | [Solution] |
-| 96 | Sum of Digits | [Problem] | [Solution] |
-| 97 | Sum of Digits | [Problem] | [Solution] |
-| 98 | Sum of Digits | [Problem] | [Solution] |
-| 99 | Sum of Digits | [Problem] | [Solution] |
-| 100 | Sum of Digits | [Problem] | [Solution] |
+| 92 | - | [Problem] | [Solution] |
+| 93 | - | [Problem] | [Solution] |
+| 94 | - | [Problem] | [Solution] |
+| 95 | - | [Problem] | [Solution] |
+| 96 | - | [Problem] | [Solution] |
+| 97 | - | [Problem] | [Solution] |
+| 98 | - | [Problem] | [Solution] |
+| 99 | - | [Problem] | [Solution] |
+| 100 | - | [Problem] | [Solution] |
 | 101 | - | [Problem] | [Solution] |
 | 102 | - | [Problem] | [Solution] |
 | 103 | - | [Problem] | [Solution] |
@@ -140,9 +140,9 @@ All the solutions of LeetCode problems done by me.
 | 125 | - | [Problem] | [Solution] |
 | 126 | - | [Problem] | [Solution] |
 | 127 | - | [Problem] | [Solution] |
-| 128 | -| [Problem] | [Solution] |
-| 129 | -| [Problem] | [Solution] |
-| 130 | -| [Problem] | [Solution] |
+| 128 | - | [Problem] | [Solution] |
+| 129 | - | [Problem] | [Solution] |
+| 130 | - | [Problem] | [Solution] |
 | 131 | - | [Problem] | [Solution] |
 | 132 | - | [Problem] | [Solution] |
 | 133 | - | [Problem] | [Solution] |
@@ -150,9 +150,9 @@ All the solutions of LeetCode problems done by me.
 | 135 | - | [Problem] | [Solution] |
 | 136 | - | [Problem] | [Solution] |
 | 137 | - | [Problem] | [Solution] |
-| 138 | -| [Problem] | [Solution] |
-| 139 | -| [Problem] | [Solution] |
-| 140 | -| [Problem] | [Solution] |
+| 138 | - | [Problem] | [Solution] |
+| 139 | - | [Problem] | [Solution] |
+| 140 | - | [Problem] | [Solution] |
 | 141 | - | [Problem] | [Solution] |
 | 142 | - | [Problem] | [Solution] |
 | 143 | - | [Problem] | [Solution] |
@@ -160,9 +160,9 @@ All the solutions of LeetCode problems done by me.
 | 145 | - | [Problem] | [Solution] |
 | 146 | - | [Problem] | [Solution] |
 | 147 | - | [Problem] | [Solution] |
-| 148 | -| [Problem] | [Solution] |
-| 149 | -| [Problem] | [Solution] |
-| 150 | -| [Problem] | [Solution] |
+| 148 | - | [Problem] | [Solution] |
+| 149 | - | [Problem] | [Solution] |
+| 150 | - | [Problem] | [Solution] |
 | 151 | - | [Problem] | [Solution] |
 | 152 | - | [Problem] | [Solution] |
 | 153 | - | [Problem] | [Solution] |
