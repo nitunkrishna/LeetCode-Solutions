@@ -79,10 +79,10 @@ All the solutions of LeetCode problems done by me.
 | 64 | Sum of Digits | [Problem] | [Solution] |
 | 65 | Sum of Digits | [Problem] | [Solution] |
 | 66 | Plus One | [Problem](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/66.%20Plus%20One) |
-| 67 | Sum of Digits | [Problem] | [Solution] |
-| 68 | Sum of Digits | [Problem] | [Solution] |
+| 67 | - | [Problem] | [Solution] |
+| 68 | - | [Problem] | [Solution] |
 | 69 | Sqrt(x) | [Problem](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/69) |
-| 70 | Sum of Digits | [Problem] | [Solution] |
+| 70 | - | [Problem] | [Solution] |
 | 71 | Sum of Digits | [Problem] | [Solution] |
 | 72 | Sum of Digits | [Problem] | [Solution] |
 | 73 | Sum of Digits | [Problem] | [Solution] |
@@ -120,9 +120,9 @@ All the solutions of LeetCode problems done by me.
 | 105 | - | [Problem] | [Solution] |
 | 106 | - | [Problem] | [Solution] |
 | 107 | - | [Problem] | [Solution] |
-| 108 | -| [Problem] | [Solution] |
-| 109 | -| [Problem] | [Solution] |
-| 110 | -| [Problem] | [Solution] |
+| 108 | - | [Problem] | [Solution] |
+| 109 | - | [Problem] | [Solution] |
+| 110 | - | [Problem] | [Solution] |
 | 111 | - | [Problem] | [Solution] |
 | 112 | - | [Problem] | [Solution] |
 | 113 | - | [Problem] | [Solution] |
@@ -130,9 +130,9 @@ All the solutions of LeetCode problems done by me.
 | 115 | - | [Problem] | [Solution] |
 | 116 | - | [Problem] | [Solution] |
 | 117 | - | [Problem] | [Solution] |
-| 118 | -| [Problem] | [Solution] |
-| 119 | -| [Problem] | [Solution] |
-| 120 | -| [Problem] | [Solution] |
+| 118 | - | [Problem] | [Solution] |
+| 119 | - | [Problem] | [Solution] |
+| 120 | - | [Problem] | [Solution] |
 | 121 | - | [Problem] | [Solution] |
 | 122 | - | [Problem] | [Solution] |
 | 123 | - | [Problem] | [Solution] |
@@ -170,9 +170,9 @@ All the solutions of LeetCode problems done by me.
 | 155 | - | [Problem] | [Solution] |
 | 156 | - | [Problem] | [Solution] |
 | 157 | - | [Problem] | [Solution] |
-| 158 | -| [Problem] | [Solution] |
-| 159 | -| [Problem] | [Solution] |
-| 160 | -| [Problem] | [Solution] |
+| 158 | - | [Problem] | [Solution] |
+| 159 | - | [Problem] | [Solution] |
+| 160 | - | [Problem] | [Solution] |
 | 161 | - | [Problem] | [Solution] |
 | 162 | - | [Problem] | [Solution] |
 | 163 | - | [Problem] | [Solution] |
@@ -180,9 +180,9 @@ All the solutions of LeetCode problems done by me.
 | 165 | - | [Problem] | [Solution] |
 | 166 | - | [Problem] | [Solution] |
 | 167 | - | [Problem] | [Solution] |
-| 168 | -| [Problem] | [Solution] |
-| 169 | -| [Problem] | [Solution] |
-| 170 | -| [Problem] | [Solution] |
+| 168 | - | [Problem] | [Solution] |
+| 169 | - | [Problem] | [Solution] |
+| 170 | - | [Problem] | [Solution] |
 | 171 | - | [Problem] | [Solution] |
 | 172 | - | [Problem] | [Solution] |
 | 173 | - | [Problem] | [Solution] |
@@ -190,9 +190,9 @@ All the solutions of LeetCode problems done by me.
 | 175 | - | [Problem] | [Solution] |
 | 176 | - | [Problem] | [Solution] |
 | 177 | - | [Problem] | [Solution] |
-| 178 | -| [Problem] | [Solution] |
-| 179 | -| [Problem] | [Solution] |
-| 180 | -| [Problem] | [Solution] |
+| 178 | - | [Problem] | [Solution] |
+| 179 | - | [Problem] | [Solution] |
+| 180 | - | [Problem] | [Solution] |
 | 181 | - | [Problem] | [Solution] |
 | 182 | - | [Problem] | [Solution] |
 | 183 | - | [Problem] | [Solution] |
@@ -200,9 +200,9 @@ All the solutions of LeetCode problems done by me.
 | 185 | - | [Problem] | [Solution] |
 | 186 | - | [Problem] | [Solution] |
 | 187 | - | [Problem] | [Solution] |
-| 188 | -| [Problem] | [Solution] |
-| 189 | -| [Problem] | [Solution] |
-| 190 | -| [Problem] | [Solution] |
+| 188 | - | [Problem] | [Solution] |
+| 189 | - | [Problem] | [Solution] |
+| 190 | - | [Problem] | [Solution] |
 | 191 | - | [Problem] | [Solution] |
 | 192 | - | [Problem] | [Solution] |
 | 193 | - | [Problem] | [Solution] |
@@ -210,9 +210,9 @@ All the solutions of LeetCode problems done by me.
 | 195 | - | [Problem] | [Solution] |
 | 196 | - | [Problem] | [Solution] |
 | 197 | - | [Problem] | [Solution] |
-| 198 | -| [Problem] | [Solution] |
-| 199 | -| [Problem] | [Solution] |
-| 200 | -| [Problem] | [Solution] |
+| 198 | - | [Problem] | [Solution] |
+| 199 | - | [Problem] | [Solution] |
+| 200 | - | [Problem] | [Solution] |
 | 201 | - | [Problem] | [Solution] |
 | 202 | - | [Problem] | [Solution] |
 | 203 | - | [Problem] | [Solution] |
@@ -4013,3 +4013,16 @@ All the solutions of LeetCode problems done by me.
 | 3998 | - | [Problem] | [Solution] |
 | 3999 | - | [Problem] | [Solution] |
 | 4000 | - | [Problem] | [Solution] |
+| 4001 | - | [Problem] | [Solution] |
+| 4002 | - | [Problem] | [Solution] |
+| 4003 | - | [Problem] | [Solution] |
+| 4004 | - | [Problem] | [Solution] |
+| 4005 | - | [Problem] | [Solution] |
+| 4006 | - | [Problem] | [Solution] |
+| 4007 | - | [Problem] | [Solution] |
+| 4008 | - | [Problem] | [Solution] |
+| 4009 | - | [Problem] | [Solution] |
+| 4010 | - | [Problem] | [Solution] |
+| 4011 | - | [Problem] | [Solution] |
+| 4012 | - | [Problem] | [Solution] |
+| 4013 | - | [Problem] | [Solution] |
