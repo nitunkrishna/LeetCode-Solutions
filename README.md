@@ -31,7 +31,7 @@ All the solutions of LeetCode problems done by me.
 | 24 | Sum of Digits | [Problem] | [Solution] |
 | 25 | Sum of Digits | [Problem] | [Solution] |
 | 26 | Remove Duplicates from Sorted Array | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/26) |
-| 27 | Remove Elements | [Problem](https://leetcode.com/problems/remove-element/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/27t) |
+| 27 | Remove Elements | [Problem](https://leetcode.com/problems/remove-element/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/27) |
 | 28 | Find the Index of the First Occurrence in a String | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/28) |
 | 21 | Sum of Digits | [Problem] | [Solution] |
 | 22 | Sum of Digits | [Problem] | [Solution] |
