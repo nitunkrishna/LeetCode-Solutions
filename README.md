@@ -11,9 +11,9 @@ All the solutions of LeetCode problems done by me.
 | 4 | - | [Problem] | [Solution] |
 | 5 | - | [Problem] | [Solution] |
 | 6 | - | [Problem] | [Solution] |
-| 7 | - | [Problem](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9.%20Palindrome%20Number) |
+| 7 | Reverse Integer | [Problem](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/7) |
 | 8 | - | [Problem] | [Solution] |
-| 9 | Palindrome Number | [Problem](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9.%20Palindrome%20Number) |
+| 9 | Palindrome Number | [Problem](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9) |
 | 10 | Sum of Digits | [Problem] | [Solution] |
 | 11 | Sum of Digits | [Problem] | [Solution] |
 | 12 | Sum of Digits | [Problem] | [Solution] |
@@ -3102,7 +3102,7 @@ All the solutions of LeetCode problems done by me.
 | 3087 | - | [Problem] | [Solution] |
 | 3088 | - | [Problem] | [Solution] |
 | 3089 | - | [Problem] | [Solution] |
-| 3090 | - | [Problem] | [Solution] |
+| 3090 | Maximum Length Substring With Two Occurrences | [Problem](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/?envType=daily-question&envId=2026-08-14) | [[Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/3090)] |
 | 3091 | - | [Problem] | [Solution] |
 | 3092 | - | [Problem] | [Solution] |
 | 3093 | - | [Problem] | [Solution] |
