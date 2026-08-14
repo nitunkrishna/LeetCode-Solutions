@@ -13,7 +13,7 @@ All the solutions of LeetCode problems done by me.
 | 6 | - | [Problem] | [Solution] |
 | 7 | Reverse Integer | [Problem](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/7) |
 | 8 | - | [Problem] | [Solution] |
-| 9 | Palindrome Number | [Problem](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9) |
+| 9 | Palindrome Number | [Problem](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/nitunkrishna/LeetCode-Solutions/blob/main/9) |
 | 10 | Sum of Digits | [Problem] | [Solution] |
 | 11 | Sum of Digits | [Problem] | [Solution] |
 | 12 | Sum of Digits | [Problem] | [Solution] |
