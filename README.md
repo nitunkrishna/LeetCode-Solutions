@@ -6,6 +6,15 @@ This repository contains my solutions and notes for LeetCode problems, organized
 
 ---
 
+## 👨‍💻 Profile
+
+- Platform: Codeforces
+- Profile Link: [NITUNKRISHNA](https://leetcode.com/u/nitunkrishna/)
+- Language: C++, MySQL
+- Goal: Improve problem-solving and competitive programming skills
+
+---
+
 ## 📊 Progress
 
 | Rating | Problems Solved |
@@ -13,7 +22,7 @@ This repository contains my solutions and notes for LeetCode problems, organized
 | Easy    | 0 |
 | Medium    | 0 |
 | Hard   | 0 |
-| Total | 121 |
+| Total | 0 |
 
 > Problem counts are updated periodically.
 
