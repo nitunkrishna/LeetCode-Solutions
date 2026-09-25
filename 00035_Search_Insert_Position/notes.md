@@ -31,4 +31,3 @@ So, returning ```l``` handles both cases:
 
 - target already exists → its index
 - target does not exist → its correct insertion position
-...
