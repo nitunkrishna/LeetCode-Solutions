@@ -25,7 +25,7 @@ Since the array is sorted in ascending order, we can use Binary Search.
 - Space: O(1)
 
 ## Key Learning
-n Binary Search, when the target is not found, the final value of l represents the first position where the target can be inserted while keeping the array sorted.
+In Binary Search, when the target is not found, the final value of l represents the first position where the target can be inserted while keeping the array sorted.
 
 So, returning ```l``` handles both cases:
 
