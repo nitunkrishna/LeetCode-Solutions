@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int lengthOfLastWord(string s)
+    {
+        string word, lastWord;
+        stringstream ss(s);
+        while(ss>>word)
+        {
+            lastWord=word;
+        }
+        return word.size();
+    }
+};
