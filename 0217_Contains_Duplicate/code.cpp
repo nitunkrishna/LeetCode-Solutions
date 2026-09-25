@@ -1,0 +1,17 @@
+class Solution
+{
+public:
+    bool containsDuplicate(vector<int>& nums)
+    {
+        map<int, int>freq;
+        int x=1;
+        for(int i=0; i<nums.size(); i++)
+            freq[nums[i]]++;
+        for(map<int, int> :: iterator it=freq.begin(); it!=freq.end(); it++)
+        {
+            if(it->second>1) x=0;
+        }
+        if(!x) return true;
+        else return false;
+    }
+};
