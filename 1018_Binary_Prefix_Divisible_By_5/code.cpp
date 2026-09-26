@@ -1,0 +1,18 @@
+class Solution
+{
+public:
+    vector<bool> prefixesDivBy5(vector<int>& nums)
+    {
+        vector<bool>res;
+        int rem=0;
+        for(int i=0; i<nums.size(); i++)
+        {
+            rem=((2*rem)+nums[i])%5;
+            if(rem==0)
+                res.push_back(true);
+            else
+                res.push_back(false);
+        }
+        return res;
+    }
+};
